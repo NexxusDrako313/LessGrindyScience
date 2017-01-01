@@ -1,5 +1,5 @@
 # LessGrindyScience
-Hey, Space Program Managers! Are you tired of science being too hard? Get LessGrindyScience today and receive 75% of the science cap at any one time!
+Hey, Space Program Managers! Are you tired of science being too hard? Get Less Grindy Science today and receive 75% of the science cap at any one time!
 
 This mod requires ModuleManager, as it's a simple MM config.
 
